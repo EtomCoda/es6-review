@@ -1,0 +1,21 @@
+{
+  "name": "es6-review",
+  "version": "1.0.0",
+  "description": "es6 work",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+
+    "url": "git+https://github.com/SageCoda/es6-review.git"
+  },
+  "author": "Etom",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SageCoda/es6-review/issues"
+  },
+  "homepage": "https://github.com/SageCoda/es6-review#readme"
+}
